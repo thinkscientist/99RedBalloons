@@ -45,7 +45,7 @@ class ViewController: UIViewController {
         }
         else {
             
-        BalloonLabel.text = "You ran out of Balloons"
+        BalloonLabel.text = "There are no more Balloons"
         }
     }
     
